@@ -1,4 +1,5 @@
 example
 =======
 
-Repositorio para iniciarme en Git
+Repositorio para iniciarme en Git.
+Primeros pasos
